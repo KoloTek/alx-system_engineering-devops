@@ -3,4 +3,4 @@ ls
 cd
 ls -l
 ls -la
-ls -a
+ls -n
