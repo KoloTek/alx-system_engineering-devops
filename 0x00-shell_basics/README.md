@@ -4,4 +4,4 @@ cd
 ls -l
 ls -la
 ls -la
-mkdir
+mkdir /tmp/my_first_directory
