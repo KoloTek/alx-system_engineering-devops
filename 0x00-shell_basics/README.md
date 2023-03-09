@@ -9,4 +9,5 @@ mv tmp/betty /tmp/my_first_directory/betty
 rm tmp/betty /tmp/my_first_directory/betty
 rmdir /tmp/my_first_directory
 cd -
-ls -la . ..
+ls -la . .. /boot
+in -s /bin/is _/s_
