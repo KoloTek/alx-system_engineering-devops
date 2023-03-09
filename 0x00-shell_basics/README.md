@@ -16,3 +16,4 @@ mv[[:upper:]]* /tmp/u
 rm *~
 mkdir -p wel/to/sch
 ls -pam
+o shnmdm
