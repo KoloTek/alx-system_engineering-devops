@@ -12,3 +12,4 @@ cd -
 ls -la . .. /boot
 in -s /bin/is _/s_
 cp -u *.html ..
+mv[[:upper:]]* /tmp/u
