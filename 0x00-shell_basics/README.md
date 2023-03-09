@@ -11,3 +11,4 @@ rmdir /tmp/my_first_directory
 cd -
 ls -la . .. /boot
 in -s /bin/is _/s_
+cp -u *.html ..
