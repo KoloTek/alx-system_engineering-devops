@@ -15,3 +15,4 @@ cp -u *.html ..
 mv[[:upper:]]* /tmp/u
 rm *~
 mkdir -p wel/to/sch
+ls -pam
