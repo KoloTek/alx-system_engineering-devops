@@ -1,2 +1,2 @@
 #!/bin/bash 
-ls -lt | last etc/passwd
+ls -lt | less etc/passwd
