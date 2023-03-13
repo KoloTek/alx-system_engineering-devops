@@ -1,2 +1,2 @@
-#!/bin/bash 
-ls -lt | last etc/passwd
+#!/bin/bash
+less +10 /etc/passwd | cat -n

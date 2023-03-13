@@ -1,2 +1,2 @@
 #!/bin/bash 
-ls -lt | findstr "^[0-10]:" /etc/passwd
+head +10 /etc/passwd | cat -n
