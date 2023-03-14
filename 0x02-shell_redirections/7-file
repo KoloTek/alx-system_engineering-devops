@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Kolotek School > \\\*\\\\\'\"Kolotek\ School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:\)
+echo "Kolotek School" > "\*\\\'\"Kolotek School\"\'\\\*\$\?\*\*\*\*\*:\)"
